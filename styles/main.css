@@ -128,6 +128,28 @@ article img {
   margin: 30px 100px 0 70px;
 }
 
+pre {
+  display: block;
+  font-family: monospace;
+  white-space: pre;
+  background: lightslategray;
+  margin: 0 20em 0 20em;
+}
+
+.code-text {
+  color: black;
+  display: block;
+  font-size: 16px;
+  font-style: normal;
+  line-height: 1.18;
+  font-weight: 400;
+}
+
+.blog-post-image {
+  height: auto;
+  width: 50%;
+}
+
 /*Margin and Padding example styling */
 .parent {
   background-color: wheat;
