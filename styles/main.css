@@ -148,6 +148,16 @@ pre {
 .blog-post-image {
   height: auto;
   width: 50%;
+  padding: 2em 0em 2em 0em;
+}
+
+.list {
+  padding: 2em 10em 2em 10em;
+  text-align: left;
+}
+
+.paragraph {
+  padding: 1em 10em 1em 10em;
 }
 
 /*Margin and Padding example styling */
