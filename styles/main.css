@@ -1,3 +1,7 @@
+@media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ }
+@media (min-width:768px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+@media (min-width:1281px) { /* hi-res laptops and desktops */ }
+
 html {
   box-sizing: border-box;
 }
