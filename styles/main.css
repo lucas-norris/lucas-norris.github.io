@@ -265,6 +265,18 @@ footer {
 
 /*Responsive Styling */
 @media (min-width: 320px) {
+  .header {
+    min-height: 35vh;
+  }
+
+  .container {
+    display: flex;
+  }
+
+  main {
+    flex: 1 1 70%;
+  }
+  
   aside {
     display: flex;
   }
